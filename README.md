@@ -15,3 +15,6 @@ This is the purpose.
 
 ## How to contribute
 
+## Copyright
+Ivan
+
